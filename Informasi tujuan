@@ -1,0 +1,16 @@
+/*
+* Nama metode : simpanNama
+* Keterangan Parameter 
+Masukan  :
+      nama ->
+      merupakan nama
+peserta didik
+      yang akan disimpan
+* Keadaan Awal :  Nama belum disimpan ke basis data
+* Keadaan Akhir : Nama telah disimpan ke basis data
+/* 
+public void
+cariNama (String nama) {
+....................................................
+....
+}
